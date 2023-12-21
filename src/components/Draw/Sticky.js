@@ -164,7 +164,7 @@ const textMetrics = (text, fontSize, fontFamily) => {
             //
             fill={stickyColor}
             stroke="black"
-            strokeWidth={2}
+            strokeWidth={1}
             draggable={draggable}
             onDragEnd={handleDragEnd}
             onClick={handleSelect}
@@ -184,7 +184,7 @@ const textMetrics = (text, fontSize, fontFamily) => {
             //
             fill={stickyColor}
             stroke="black"
-            strokeWidth={2}
+            strokeWidth={1}
             cornerRadius={10}
             draggable={draggable}
             onDragEnd={handleDragEnd}
