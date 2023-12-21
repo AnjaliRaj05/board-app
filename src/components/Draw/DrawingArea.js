@@ -588,8 +588,8 @@ const DrawingArea = () => {
       {
         x: x,
         y: y,
-        width: 150,
-        height: 150,
+        width: 200,
+        height: 200,
         shape: selectedShape,
         text: inputText,
         draggable: true,
